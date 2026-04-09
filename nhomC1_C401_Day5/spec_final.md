@@ -1,6 +1,6 @@
 # SPEC — AI Product Hackathon
 
-**Nhóm:** C401_C1  
+**Nhóm:** XanhSM_D4  
 **Lĩnh vực:** XanhSM  
 **Problem statement:** Tài xế XanhSM gặp khó khăn trong việc tra cứu các chính sách thưởng/phạt phức tạp từ các tệp văn bản dài, dẫn đến việc nắm bắt thông tin sai lệch và gây quá tải cho tổng đài hỗ trợ; AI giúp giải đáp tức thì thông qua hội thoại tự nhiên, thông báo chủ động, trích dẫn chính xác nguồn văn bản, hỗ trợ tính toán thu nhập thực tế và tối ưu lộ trình sạc pin.
 
